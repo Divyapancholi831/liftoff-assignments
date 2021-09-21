@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.[capstone-presentation-template.pdf](https://github.com/Divyapancholi831/liftoff-assignments/files/7200268/capstone-presentation-template.pdf)
+[capstone-presentation-template.pdf](https://github.com/Divyapancholi831/liftoff-assignments/files/7200268/capstone-presentation-template.pdf)
